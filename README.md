@@ -19,4 +19,4 @@ After completing my first project, I really wanted to try to independently make 
 The pre-requiste of Bouncing ball, after I completed that project, I immedieatly moved to try and do this project. I managed to do this in one day but I did use my code from the previous project to speed up the setting up the ball mechanics but there are some notable changes made to said ball.
 
 ## OOP Platfomer
-Refreshed myself with OOP with this platformer game which I got a lot of help from the tutorial by Coding with Russ. I plan on making a bigger and more comprehensive platformer now.
+Refreshed myself with OOP with this platformer game which I got a lot of help from the tutorial by Coding with Russ. I plan on making a bigger and more comprehensive platformer now...
